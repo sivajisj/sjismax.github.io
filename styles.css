@@ -1,0 +1,45 @@
+.one{
+    background-color:rgb(24, 7, 177);
+    color: aliceblue;
+    height:30px;
+    font-family:monospace;
+}
+.sj{
+    text-align: right;
+    float: right;
+}
+.two{
+    padding-top: 20px;
+    font-family:Georgia;
+    font-weight:bold ;
+}
+#img-txt{
+    font-size:40px;
+    font-family:times;
+    margin-top:50px;
+    margin-left:10px;
+    color: rgb(7, 105, 105);
+    text-shadow:2px 1px rgb(2, 22, 52);
+}
+.head{
+    padding-left: 100px;
+    padding-top:80px;
+}
+.im{
+    padding-left:100px;
+    padding-top: 40px;
+    color: rgb(28, 64, 127);
+    font-family: Verdana;
+
+
+}
+.imgg{
+    margin-left:29px;
+    
+}
+h3{
+    font-weight:bolder;
+}
+p{
+    font-size:14px;
+}
